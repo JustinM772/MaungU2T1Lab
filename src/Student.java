@@ -14,5 +14,6 @@ public class Student {
     public void showInfo() {
         System.out.println("Height(inches): " + heightInches);
         System.out.println("GPA: " + gpa);
+
     }
 }
